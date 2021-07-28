@@ -10,7 +10,7 @@ Projects:
 
 ![Captura de pantalla de 2021-07-27 22-50-45](https://user-images.githubusercontent.com/82605126/127251141-bd4db665-dfa2-4720-9173-387f933c8f23.png)
 
-29/06/2021 <b>  | Tecnologías utilizadas:  React, Redux, JWT, PostgreSQL, Sequelize, Express.js, Node.js, CSS & CSS modules, NodeMailer, MaterialUI
+29/06/2021 <b> E-COMMERCE de Historietas  | Tecnologías utilizadas:  React, Redux, JWT, PostgreSQL, Sequelize, Express.js, Node.js, CSS & CSS modules, NodeMailer, MaterialUI
 </b>
 
 ![Captura de pantalla de 2021-07-27 23-38-48](https://user-images.githubusercontent.com/82605126/127255051-8c1b19ba-56b9-4a94-aab0-64be0a1ab1ac.png)
