@@ -18,4 +18,4 @@ Projects:
 01/07/2021 - 01/07/2021 <b> App para elegir el candidato ideal según el puesto  | Tecnologías utilizadas:  React, Redux, Passport, PostgreSQL, Sequelize, Express.js, Node.js, CSS & CSS modules, NodeMailer, MaterialUI
 </b>
 
- file:///home/christian/Im%C3%A1genes/Captura%20de%20pantalla%20de%202021-08-09%2011-51-59.png
+<a href="https://ibb.co/cbT3Bpc"><img src="https://i.ibb.co/cbT3Bpc/Captura-de-pantalla-de-2021-08-09-11-51-59.png" alt="Captura-de-pantalla-de-2021-08-09-11-51-59" border="0"></a>
