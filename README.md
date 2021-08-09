@@ -15,3 +15,7 @@ Projects:
 
 ![Captura de pantalla de 2021-07-27 23-38-48](https://user-images.githubusercontent.com/82605126/127255051-8c1b19ba-56b9-4a94-aab0-64be0a1ab1ac.png)
 
+01/07/2021 - 01/07/2021 <b> App para elegir el candidato ideal según el puesto  | Tecnologías utilizadas:  React, Redux, Passport, PostgreSQL, Sequelize, Express.js, Node.js, CSS & CSS modules, NodeMailer, MaterialUI
+</b>
+
+ file:///home/christian/Im%C3%A1genes/Captura%20de%20pantalla%20de%202021-08-09%2011-51-59.png
