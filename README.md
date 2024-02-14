@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Christian! I'm an instiable software developer eager to acquire knowledge and apply it! 
+I'm Christian! I'm an insatiable software developer eager to acquire knowledge and apply it! 
 
   Here are some of my projects:
   
