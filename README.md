@@ -66,7 +66,7 @@ I'm a **Full Stack Developer** with over three years of experience in internatio
 
 ## 🚀 About Me
 
-- 📍 I live in Maintal, Germany.
+- 📍 I live in Frankfurt, Germany.
 - 🏫 I hold a degree in Marketing from the Universidad de Palermo.
 - 🖥️ I completed an intensive Full Stack programming bootcamp at Plataforma 5.
 - 🌍 I speak Spanish (C2), English (C1), German (B1), and Russian (A2).
