@@ -82,6 +82,8 @@ I'm a **Full Stack Developer** with over three years of experience in internatio
 - **IOET (Feb. 2023 - Present)**: Software Engineer, collaborating on the development of internal and external applications with a user-centered approach.
   - **People App**: Implemented a central solution for employee management using TypeScript, React, and Next.js.
   - **Staffing App**: Developed from scratch using Golang and Gin, implementing hexagonal architecture and repository patterns.
+  - **Payroll**: I was the  ==Jr tech Lead==  on payroll where you can see the income and expenses of the developers, as well as other options such as contract termination, pay the developer for the days worked, csv generator, etc.
+  - **Backend Course**: I was one of the six colleagues who designed the backend course in IOET to transform Jrs to Ssr seniority
 
 - **TripleTen Company (Mar. 2022 - Present)**: Code Reviewer, providing constructive feedback to improve code quality and project effectiveness for students.
 
