@@ -17,7 +17,7 @@ Ich bin ein **Full Stack Entwickler** mit mehr als drei Jahren Erfahrung in inte
 
 ## 📚 Erfahrung
 
-- **IOET (Feb. 2022 - Heute)**: Software Engineer, Zusammenarbeit bei der Entwicklung interner und externer Anwendungen mit einem benutzerzentrierten Ansatz.
+- **IOET**: Software Engineer, Zusammenarbeit bei der Entwicklung interner und externer Anwendungen mit einem benutzerzentrierten Ansatz.
   - **People App**: Implementierung einer zentralen Lösung zur Mitarbeiterverwaltung unter Verwendung von TypeScript, React und Next.js.
   - **Staffing App**: Entwicklung von Grund auf unter Verwendung von Golang und Gin, Implementierung der hexagonalen Architektur und Repositoriummuster.
 
