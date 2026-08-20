@@ -1,5 +1,12 @@
 # 👋 Hallo, ich bin Christian Scarpati
 
+
+<p align="center">
+  <img src="./christian-scarpati-github-banner.webp"
+       alt="Christian Scarpati - Full Stack Software Engineer"
+       width="100%" />
+</p>
+
 Ich bin ein **Full Stack Entwickler** mit mehr als drei Jahren Erfahrung in internationalen Teams, spezialisiert auf Technologien wie TypeScript, React, Node.js und Python. Mein Ziel ist es, stets neue Möglichkeiten zu suchen, um zu lernen und zum Erfolg innovativer Projekte beizutragen.
 
 ## 🚀 Über Mich
