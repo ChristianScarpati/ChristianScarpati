@@ -14,7 +14,7 @@ Ich bin ein **Full Stack Entwickler** mit mehr als drei Jahren Erfahrung in inte
 - 📍 Ich lebe in Frankfurt, Deutschland.
 - 🏫 Ich habe einen Abschluss in Marketing von der Universidad de Palermo.
 - 🖥️ Ich habe ein intensives Full Stack Programmier-Bootcamp bei Plataforma 5 abgeschlossen.
-- 🌍 Ich spreche Spanisch (C2), Englisch (C1), Deutsch (B1) und Russisch (A2).
+- 🌍 Ich spreche Spanisch (C2), Englisch (C1), Deutsch (B2) und Russisch (A2).
 
 ## 🔧 Technische Fähigkeiten
 
@@ -76,7 +76,7 @@ I'm a **Full Stack Developer** with over three years of experience in internatio
 - 📍 I live in Frankfurt, Germany.
 - 🏫 I hold a degree in Marketing from the Universidad de Palermo.
 - 🖥️ I completed an intensive Full Stack programming bootcamp at Plataforma 5.
-- 🌍 I speak Spanish (C2), English (C1), German (B1), and Russian (A2).
+- 🌍 I speak Spanish (C2), English (C1), German (B2), and Russian (A2).
 
 ## 🔧 Technical Skills
 
@@ -140,7 +140,7 @@ Soy un **Desarrollador Full Stack** con más de tres años de experiencia en equ
 - 📍 Vivo en Frankfurt, Alemania.
 - 🏫 Tengo un título en Marketing de la Universidad de Palermo.
 - 🖥️ Completé un bootcamp intensivo en programación Full Stack en Plataforma 5.
-- 🌍 Hablo español (C2), inglés (C1), alemán (B1) y ruso (A2).
+- 🌍 Hablo español (C2), inglés (C1), alemán (B2) y ruso (A2).
 
 ## 🔧 Habilidades Técnicas
 
