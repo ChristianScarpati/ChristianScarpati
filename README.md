@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="./christian-scarpati-github-banner.webp"
+  <img src="./github-image.jpg"
        alt="Christian Scarpati - Full Stack Software Engineer"
        width="100%" />
 </p>
